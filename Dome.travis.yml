@@ -1,6 +1,0 @@
-
-language: objective-c
-before_install:
-     - brew update
-     - brew install xctool
-script: xctool -project Demo.xcodeproj -scheme Demo -sdk iphonesimulator  test

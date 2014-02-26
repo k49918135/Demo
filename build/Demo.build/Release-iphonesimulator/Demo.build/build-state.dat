@@ -1,539 +1,0 @@
-TDemo
-v6
-r1
-cCheck dependencies
-cProcessPCH /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo normal i386
-cLd /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo normal x86_64
-cCreateUniversalBinary /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo normal i386\ x86_64
-cCopyStringsFile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/en.lproj/InfoPlist.strings Demo/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/k49918135/Desktop/iOS程式/Demo/Demo/Base.lproj/Main.storyboard
-cCompileAssetCatalog /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app /Users/k49918135/Desktop/iOS程式/Demo/Demo/Images.xcassets
-cProcessInfoPlistFile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Info.plist /Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Info.plist
-cGenerateDSYMFile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app.dSYM /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo
-cTouch /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
-c00000000529D7A3B0000000000000176
-t1386052155
-s374
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
-c000000005246EC1200000000000003B5
-t1380379666
-s949
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000526B961600000000000001A0
-t1382782486
-s416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000526B96190000000000445870
-t1382782489
-s4479088
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000526B961A000000000088C680
-t1382782490
-s8963712
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000526B961F0000000001DB9910
-t1382782495
-s31168784
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
-c000000005246EC550000000000000AC9
-t1380379733
-s2761
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/Base.lproj/Main.storyboard
-c00000000530309DB0000000000000633
-t1392708059
-s1587
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Info.plist
-c00000000530309DB00000000000004C0
-t1392708059
-s1216
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Prefix.pch
-c00000000530309DB0000000000000158
-t1392708059
-s344
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/Images.xcassets
-c00000000530309DC0000000000000088
-t1392708060
-s136
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m
-c00000000530309DB00000000000007DE
-t1392708059
-s2014
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m
-c00000000530309DB00000000000001F7
-t1392708059
-s503
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/en.lproj/InfoPlist.strings
-c00000000530309DB000000000000002D
-t1392708059
-s45
-
-N/Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m
-c00000000530309DB0000000000000155
-t1392708059
-s341
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo
-t1392709443
-s16956
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo.LinkFileList
-c0000000053030F3D000000000000017C
-t1392709437
-s380
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o
-t1392709442
-s64212
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o
-t1392709442
-s41020
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o
-t1392709442
-s3588
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo
-t1392709443
-s17396
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo.LinkFileList
-c0000000053030F3D0000000000000182
-t1392709437
-s386
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o
-t1392709442
-s72364
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o
-t1392709442
-s41920
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o
-t1392709442
-s4096
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_dependencies.txt
-t1392709454
-s339
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_generated_info.plist
-t1392709454
-s525
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app
-t1392709454
-s306
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app.dSYM
-t2
-s0
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Base.lproj/Main.storyboardc
-t1392709452
-s170
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo
-t1392709444
-s41972
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Info.plist
-t1392709454
-s993
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/PkgInfo
-t1392709454
-s8
-
-N/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/en.lproj/InfoPlist.strings
-t1392709444
-s42
-
-N/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.pch
-t1392709441
-s109228
-
-N/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.pch
-t1392709441
-s109956
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies441483bc46b3b841^e1ce85bd46b3b841^---0#1#1#--18"Check dependencies36"7963EABF-6B36-4722-8D9F-8B0CA18110C6-
-
-CCompileAssetCatalog /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app /Users/k49918135/Desktop/iOS程式/Demo/Demo/Images.xcassets
-s414402252.921190
-e414402254.785868
-r1
-xCompileAssetCatalog
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/LaunchImage-700-568h@2x.png
-o/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Assets.car
-o/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/Demo.app [1mDemo/Images.xcassets[0m95"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/Demo.app [1mDemo/Images.xcassets[0m97e5ebcc46b3b841^942ec9ce46b3b841^-367"/* com.apple.actool.compilation-results *//Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/LaunchImage-700-568h@2x.png/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Assets.car/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@80"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/Images.xcassets/0000000000000000^1092"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/Demo.app [1mDemo/Images.xcassets[0m    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app /Users/k49918135/Desktop/iOS程式/Demo/D36"9CAFD756-EADC-42D9-95E2-572B6E19F292-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402241.915186
-e414402242.365340
-r1
-xCompileC
-xbuild/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m203"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o [1mDemo/csuAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd66eac146b3b841^2f875dc246b3b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/csuAppDelegate.m0000000000000000^3570"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o [1mDemo/csuAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -include /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch -MMD -MT dependencies -MF /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.d --serialize-diagnostics /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.dia -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimula36"77DCE291-176A-46DA-83F5-7FC7FC3A9C5D-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402241.915447
-e414402242.361666
-r1
-xCompileC
-xbuild/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m209"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o [1mDemo/csuViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1aa6eac146b3b841^d1955cc246b3b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/csuViewController.m0000000000000000^3588"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o [1mDemo/csuViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -include /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch -MMD -MT dependencies -MF /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.d --serialize-diagnostics /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.dia -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator36"E20BC52D-FB2C-4BDF-A881-448894E91032-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402242.362016
-e414402242.426187
-r1
-xCompileC
-xbuild/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m183"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o [1mDemo/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1cce5cc246b3b841^871a6dc246b3b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/main.m0000000000000000^3510"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o [1mDemo/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -include /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch -MMD -MT dependencies -MF /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.dia -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-ip36"6766B522-2E12-4416-B971-BCFFD671E2D6-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402242.365609
-e414402242.446340
-r1
-xCompileC
-xbuild/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m207"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o [1mDemo/csuAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4eb65dc246b3b841^e14672c246b3b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/csuAppDelegate.m0000000000000000^3584"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o [1mDemo/csuAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/x86_64 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -include /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch -MMD -MT dependencies -MF /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.d --serialize-diagnostics /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.dia -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.m -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulato36"AC3DDE4E-5DF0-48A5-B366-77932FB75DC6-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402242.426518
-e414402242.497239
-r1
-xCompileC
-xbuild/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m213"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o [1mDemo/csuViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9546dc246b3b841^124a7fc246b3b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/csuViewController.m0000000000000000^3602"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o [1mDemo/csuViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/x86_64 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -include /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch -MMD -MT dependencies -MF /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.d --serialize-diagnostics /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.dia -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/csuViewController.m -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/D36"94E32F9E-F0B1-4BC2-9649-B52186B6A7D8-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileC build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402242.446685
-e414402242.486896
-r1
-xCompileC
-xbuild/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/csuAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m187"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o [1mDemo/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileraa7d72c246b3b841^7aa57cc246b3b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/main.m0000000000000000^3524"[1mCompileC[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o [1mDemo/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/x86_64 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -include /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch -MMD -MT dependencies -MF /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.dia -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/main.m -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-ipho36"B3ABFFAB-6A68-4723-BC41-AAB4DC32E2B5-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCompileStoryboard /Users/k49918135/Desktop/iOS程式/Demo/Demo/Base.lproj/Main.storyboard
-s414402244.059807
-e414402252.920885
-r1
-xCompileStoryboard
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"[1mCompileStoryboard[0m [1mDemo/Base.lproj/Main.storyboard[0m65"[1mCompileStoryboard[0m [1mDemo/Base.lproj/Main.storyboard[0mc45f0fc446b3b841^83bfebcc46b3b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/Base.lproj/Main.storyboard0000000000000000^857"[1mCompileStoryboard[0m [1mDemo/Base.lproj/Main.storyboard[0m    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Base.lproj/Main.storyboardc /Users/k49918135/Desktop/iOS程式/Demo/Demo/Base.lproj/Main.storyboard36"2475C701-1176-47AA-B483-CED6FF155069-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCopyStringsFile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/en.lproj/InfoPlist.strings Demo/en.lproj/InfoPlist.strings
-s414402244.026759
-e414402244.059629
-r1
-xCopyStringsFile
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/en.lproj/InfoPlist.strings
-xDemo/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Demo/en.lproj/InfoPlist.strings121"[1mCopyStringsFile[0m build/Release-iphonesimulator/Demo.app/en.lproj/InfoPlist.strings Demo/en.lproj/InfoPlist.stringsbbf106c446b3b841^a2440fc446b3b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/en.lproj/InfoPlist.strings0000000000000000^592"[1mCopyStringsFile[0m build/Release-iphonesimulator/Demo.app/en.lproj/InfoPlist.strings Demo/en.lproj/InfoPlist.strings    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/en.lproj -- Demo/en.lproj/InfoPlist.strings36"72DAD91E-1EDA-4B9D-826C-00282E2EC5EB-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CCreateUniversalBinary /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo normal i386\ x86_64
-s414402244.003535
-e414402244.026317
-r1
-xCreateUniversalBinary
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo
-xnormal
-xi386 x86_64
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Create universal binary /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo101"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/Demo.app/Demo[0m normal i386\ x86_64d6fc00c446b3b841^2bbd06c446b3b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/build/Release-iphonesimulator/Demo.app/Demo0034ac92dcffdf42^704"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/Demo.app/Demo[0m normal i386\ x86_64    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    lipo -create /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo -output /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo36"F4B1E600-E7A6-4202-A6CB-E2DB24CFA18A-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CGenerateDSYMFile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app.dSYM /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo
-s414402254.820195
-e414402256.581845
-r1
-xGenerateDSYMFile
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app.dSYM
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Generate /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app.dSYM120"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/Demo.app.dSYM[0m build/Release-iphonesimulator/Demo.app/Demoee09d2ce46b3b841^b2f594d046b3b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/build/Release-iphonesimulator/Demo.app.dSYM0034ac92dcffdf42^649"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/Demo.app.dSYM[0m build/Release-iphonesimulator/Demo.app/Demo    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Demo -o /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app.dSYM36"B79A19A6-1DEB-4931-864B-CCADBC929443-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CLd /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo normal i386
-s414402242.498265
-e414402244.002613
-r1
-xLd
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo
-xnormal
-xi386
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuAppDelegate.o
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/csuViewController.o
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo99"[1mLd[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo normal i386c1a97fc246b3b841^36ad00c446b3b841^---0#0#1#--1378"[1mLd[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo normal i386    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -filelist /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/i386/Demo_dependency_info.dat -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/O36"298A8863-C099-427E-AB8F-3028250E1187-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CLd /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo normal x86_64
-s414402242.498719
-e414402244.002070
-r1
-xLd
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo
-xnormal
-xx86_64
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuAppDelegate.o
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/csuViewController.o
-d/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libdyld.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libsystem_stats.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo103"[1mLd[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo normal x86_64babe7fc246b3b841^978b00c446b3b841^---0#0#1#--1390"[1mLd[0m build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo normal x86_64    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator -filelist /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Objects-normal/x86_64/Demo_dependency_info.dat -o /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Obj36"424C2CCB-B79B-4196-AA9F-A17F5EE0CE58-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CProcessInfoPlistFile /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Info.plist /Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Info.plist
-s414402254.786512
-e414402254.819644
-r1
-xProcessInfoPlistFile
-x/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Info.plist
-x/Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Process /Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Info.plist107"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/Demo.app/Info.plist [1mDemo/Demo-Info.plist[0mb96fc9ce46b3b841^b7d4d1ce46b3b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/Demo-Info.plist0000000000000000^858"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/Demo.app/Info.plist [1mDemo/Demo-Info.plist[0m    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Info.plist -genpkginfo /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/assetcatalog_generated_info.plist -o /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app/Info.plist36"1B5EBB6C-1EEF-4B92-BA80-5C04B4F56CEB-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CProcessPCH /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402237.598605
-e414402241.914165
-r1
-xProcessPCH
-x/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.pch
-xDemo/Demo-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Demo/Demo-Prefix.pch286"[1mProcessPCH[0m /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7cb69ebd46b3b841^ea06eac146b3b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/Demo-Prefix.pch0000000000000000^3633"[1mProcessPCH[0m /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/i386 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator --serialize-diagnostics /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahyidfxwevrajhmbrsixfb/Demo-Prefix.pch.d -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Prefix.pch -o /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-gsbclnahy36"23BB21E2-965C-4D51-BB7F-7F75C34F4EA4-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CProcessPCH /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s414402237.598946
-e414402241.914166
-r1
-xProcessPCH
-x/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.pch
-xDemo/Demo-Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Demo/Demo-Prefix.pch288"[1mProcessPCH[0m /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6b59ebd46b3b841^390ceac146b3b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/k49918135/Desktop/iOS%E7%A8%8B%E5%BC%8F/Demo/Demo/Demo-Prefix.pch0000000000000000^3639"[1mProcessPCH[0m /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.pch Demo/Demo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/k49918135/Desktop/iOS程式/Demo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-generated-files.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-own-target-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-all-target-headers.hmap -iquote /Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/Demo-project-headers.hmap -I/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources/x86_64 -I/Users/k49918135/Desktop/iOS程式/Demo/build/Demo.build/Release-iphonesimulator/Demo.build/DerivedSources -F/Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator --serialize-diagnostics /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivygavusfaltjnbgldestgw/Demo-Prefix.pch.d -c /Users/k49918135/Desktop/iOS程式/Demo/Demo/Demo-Prefix.pch -o /var/folders/w_/flfz4ctn19n2bt9_qr8dypk80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Demo-Prefix-hjgfvivyg36"79D558F6-C5E7-4E4A-923D-5B1B4F044A40-
-bACB438F6-8460-4D64-BC88-EDE9545F5C31
-
-CTouch /Users/k49918135/Desktop/iOS程式/Demo/build/Release-iphonesimulator/Demo.app
-r0
-
