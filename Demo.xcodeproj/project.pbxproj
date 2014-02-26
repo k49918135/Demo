@@ -21,6 +21,8 @@
 		01BA400918B3415D001C05B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01BA3FEB18B3415B001C05B6 /* UIKit.framework */; };
 		01BA401118B3415D001C05B6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 01BA400F18B3415D001C05B6 /* InfoPlist.strings */; };
 		01BA401318B3415D001C05B6 /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01BA401218B3415D001C05B6 /* DemoTests.m */; };
+		01D2837A18BD8ECB00764739 /* Dome.travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 01D2837918BD8ECB00764739 /* Dome.travis.yml */; };
+		01D2837B18BD8ECB00764739 /* Dome.travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 01D2837918BD8ECB00764739 /* Dome.travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,7 @@
 		01BA400E18B3415D001C05B6 /* DemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DemoTests-Info.plist"; sourceTree = "<group>"; };
 		01BA401018B3415D001C05B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		01BA401218B3415D001C05B6 /* DemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoTests.m; sourceTree = "<group>"; };
+		01D2837918BD8ECB00764739 /* Dome.travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dome.travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +149,7 @@
 		01BA400D18B3415D001C05B6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				01D2837918BD8ECB00764739 /* Dome.travis.yml */,
 				01BA400E18B3415D001C05B6 /* DemoTests-Info.plist */,
 				01BA400F18B3415D001C05B6 /* InfoPlist.strings */,
 			);
@@ -232,6 +236,7 @@
 				01BA400018B3415C001C05B6 /* Images.xcassets in Resources */,
 				01BA3FF218B3415B001C05B6 /* InfoPlist.strings in Resources */,
 				01BA3FFB18B3415B001C05B6 /* Main.storyboard in Resources */,
+				01D2837A18BD8ECB00764739 /* Dome.travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01BA401118B3415D001C05B6 /* InfoPlist.strings in Resources */,
+				01D2837B18BD8ECB00764739 /* Dome.travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -461,6 +467,7 @@
 				01BA401818B3415D001C05B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01BA401918B3415D001C05B6 /* Build configuration list for PBXNativeTarget "DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +476,7 @@
 				01BA401B18B3415D001C05B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
